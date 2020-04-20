@@ -111,7 +111,7 @@ hr {
     justify-content: center;
     width: 100%;
     height: 100vh;
-    background: url(/Images/intro.jpg) center no-repeat;
+    background: url("./Images/intro.jpg") center no-repeat;
     background-size: cover;
     min-height: 820px;
     position: relative;
@@ -231,17 +231,17 @@ hr {
 .section--map{
     background-color: #e6e6e6;
     padding: 40px 0;
-    background: url(/Images/map-bg.jpg) center no-repeat;
+    background: url("./Images/map-bg.jpg") center no-repeat;
     background-size: cover;
 }
 
 .section--clients{
-    background: url(/Images/clients-bg.jpg) center no-repeat;
+    background: url("./Images/clients-bg.jpg") center no-repeat;
     background-size: cover;
 }
 
 .section--devices {
-    background: url(/Images/devices-bg.jpg)  center no-repeat;
+    background: url("./Images/devices-bg.jpg")  center no-repeat;
     background-size: cover;
     padding-bottom: 0;
     margin-bottom: 40px;
