@@ -556,8 +556,8 @@ hr {
 .review__photo{
     display: block;
     position: absolute;
-    top: 0;
-    left: 0;
+    top: -37px;
+    left: -17px;
     z-index: 1;
     border: 2px solid #95e1d3;
     border-radius: 50%;
